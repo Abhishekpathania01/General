@@ -6,4 +6,4 @@
 
 4. On **Stay signed in** the pop-up window, click **No**.
 
-5. On successful login, you will redirected to the Azure dashboard.
+5. On successful login, you will be redirected to the Azure dashboard.
