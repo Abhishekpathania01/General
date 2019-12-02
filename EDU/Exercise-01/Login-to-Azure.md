@@ -4,11 +4,11 @@
 
 3. In the next step, use **<inject key="AzureAdUserPassword"></inject>** as **Password**  and Click on **Sign In**
 
-4. On **Stay signed in** the pop-up window, click **No**.
+4. On **Stay signed in** the pop-up window, click **No**. 
    
 5. Click on **Resource Groups** to review the pre-created resource groups for you to use in the lab. 
 
-6. You are provided with two pre-created **Resource Groups** in the Lab. Let us review them.
+6. You are provided with two pre-created **Resource Groups** in the Lab. Let us review them. 
 
    * exercise-02-UNIQUEID: Please use this resource group to deploy all resources during exercise-02
 
