@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Getting started with Cloud - Workshop",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/General/master/EDU/exercise-01.md",
+        "Order": 1
+
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/General/master/EDU/exercise-02.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/General/master/EDU/exercise-03.md",
+        "Order": 3
+      }
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/General/master/EDU/summary.md",
+        "Order": 4
+      }
+    ]
+  }
+]
