@@ -38,6 +38,7 @@ Most cloud computing services fall into four broad categories: infrastructure as
 
 In this exercise, you will login to the Azure portal using your lab Azure credentials and you will verify access to the lab resources.
 
+Source: https://azure.microsoft.com/en-in/
 
 ### Login to the Azure Portal 
 
