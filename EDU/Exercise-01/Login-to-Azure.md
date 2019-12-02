@@ -14,7 +14,6 @@
 
    * exercise-03-UNIQUEID: Please use this resource group to deploy all resources during exercise-03 
 
-
 7. Please note that you do not have rights to create new resource groups in the lab environment. Please use the pre-created resource groups for provisioning all resources in upcoming exercises.  
 
 8. Click **Next** on the bottom right of this page.
