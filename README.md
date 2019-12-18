@@ -36,10 +36,10 @@ For Manual Installation of the Microsoft Teams Team site follow the below steps:
 9. You can add in additional owners and or members at this time or wait until later.
 10. Click on **Finish** when prompted. 
 11. Click on the **App Launcher** on the newly created site.
+12. Locate the **Microsoft Teams**
 
 ![](images/locateteams6.png)
 
-12. Locate the **Microsoft Teams**
 13.	Once in Microsoft Teams, we are now going to create a new team based off the Office 365 group that was created when we created the SharePoint Team site. To do this, click on Join or create a team.
 14. Click on **Create Teams**
 15. To use the Office 365 group that was created when we made the SharePoint Teams site, click on Create a team from an existing Office 365 group.
