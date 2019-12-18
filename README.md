@@ -11,7 +11,7 @@ The Modern Meeting solution utilizes a Microsoft Teams team site where users can
 For Manual Installation of the Microsoft Teams Team site follow the below steps: 
 
 1. Open a browser and navigate to **https://portal.office.com/**
-2. Login with the account which have Office 365 E5 license activated. 
+2. Login with the account which have M365 E5 license activated. 
 3. Click on **App Launcher**
 
 ![](images/applaunch1.png)
