@@ -37,7 +37,7 @@ For Manual Installation of the Microsoft Teams Team site follow the below steps:
 10. Click on **Finish** when prompted. 
 11. Click on the **App Launcher** on the newly created site.
 
-![](images/applaunch1.png)
+![](images/newsite7.png)
 
 12. Locate the **Microsoft Teams**
 
@@ -58,9 +58,12 @@ For Manual Installation of the Microsoft Teams Team site follow the below steps:
 ![](images/office365.png)
 
 17. On the Next page, rename the Team name with **Contoso Board of Directors** and click on **Create**.
-18. Now you have the team **Contoso Board of Directors** created successfully.
+
 
 ![](images/createfinal.png)
+
+18. Now you have the team **Contoso Board of Directors** created successfully.
+
 
 
 
