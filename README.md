@@ -45,8 +45,24 @@ For Manual Installation of the Microsoft Teams Team site follow the below steps:
 
 13.	Once in Microsoft Teams, we are now going to create a new team based off the Office 365 group that was created when we created the SharePoint Team site. To do this, click on Join or create a team.
 14. Click on **Create Teams**
+
+![](images/jointeamcreate9.png)
+
 15. To use the Office 365 group that was created when we made the SharePoint Teams site, click on Create a team from an existing Office 365 group.
-16. 
+
+![](images/createsample10.png)
+
+
+16. Now select Office 365 Group
+
+![](images/office365.png)
+
+17. On the Next page, rename the Team name with **Contoso Board of Directors** and click on **Create**.
+18. Now you have the team **Contoso Board of Directors** created successfully.
+
+![](images/createfinal.png)
+
+
 
 
 
