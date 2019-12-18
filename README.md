@@ -36,6 +36,9 @@ For Manual Installation of the Microsoft Teams Team site follow the below steps:
 9. You can add in additional owners and or members at this time or wait until later.
 10. Click on **Finish** when prompted. 
 11. Click on the **App Launcher** on the newly created site.
+
+![](images/applaunch1.png)
+
 12. Locate the **Microsoft Teams**
 
 ![](images/locateteams6.png)
